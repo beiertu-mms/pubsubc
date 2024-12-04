@@ -2,7 +2,7 @@ module github.com/beiertu-mms/pubsubc
 
 go 1.21.5
 
-require cloud.google.com/go/pubsub v1.45.1
+require cloud.google.com/go/pubsub v1.45.2
 
 require (
 	cloud.google.com/go v0.116.0 // indirect
